@@ -1,6 +1,6 @@
 ![banner](/banner.jpg "banner")
 
-A currated list of cool software projects.
+A curated list of cool software projects.
 
 *This list is not language-specific. Also check out [this list of cool javascript libraries](https://github.com/RobertDusk/cooljs) or [this list of cool python libraries](https://github.com/RobertDusk/coolpy).*
 
